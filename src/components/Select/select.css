@@ -1,0 +1,20 @@
+.storybook-select {
+    width: 200px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.storybook-select--small {
+    font-size: 12px;
+    padding: 10px 16px;
+}
+
+.storybook-select--medium {
+    font-size: 14px;
+    padding: 11px 20px;
+}
+
+.storybook-select--large {
+    font-size: 16px;
+    padding: 12px 24px;
+}
